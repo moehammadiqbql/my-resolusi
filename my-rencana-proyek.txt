@@ -1,0 +1,6 @@
+Rencana Proyek
+
+- Membuat Aplikasi Berbasis Web
+- Memperdalam Framework CodeIgniter dan Laravel
+- Front end
+- Menjadi Full stack Dev
